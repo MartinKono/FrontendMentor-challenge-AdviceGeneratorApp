@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FrontendMentor-challenge-AdviceGeneratorApp/static/css/main.605d12ea.css",
+    "main.js": "/FrontendMentor-challenge-AdviceGeneratorApp/static/js/main.3d378ffe.js",
+    "index.html": "/FrontendMentor-challenge-AdviceGeneratorApp/index.html",
+    "main.605d12ea.css.map": "/FrontendMentor-challenge-AdviceGeneratorApp/static/css/main.605d12ea.css.map",
+    "main.3d378ffe.js.map": "/FrontendMentor-challenge-AdviceGeneratorApp/static/js/main.3d378ffe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.605d12ea.css",
+    "static/js/main.3d378ffe.js"
+  ]
+}
